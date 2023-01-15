@@ -52,3 +52,12 @@ print()
 print("Add logic to calculate the area of a rectangular plot of land.")
 print("Display the results to the user.")
 
+#Answer
+land_base = float(input('Enter the length of the plot of land, without unit: '))
+land_height = float(input('Enter the height of the plot of land, without unit: '))
+land_area = land_base * land_height
+
+print(f"Given base={land_base} and height={land_height},")
+print(f"the area of the land is {land_area}")
+
+

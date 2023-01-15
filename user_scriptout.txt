@@ -1,1 +1,21 @@
 # Paste the output from a sample run here.
+(base) andy@andy-Inspiron-15-3511:~/Documents/DataAnalytics/datafun-01-getting-started$ /home/andy/miniconda3/bin/python /home/andy/Documents/DataAnalytics/datafun-01-getting-started/user_script.py
+Enter salary of Employee 1: 48000
+Enter salary of Employee 2: 60000
+Enter salary of Employee 3: 25000
+Enter salary of Employee 4: 100000
+Enter salary of Employee 5: 62000
+Employee 1 Slalary has been sucessfully stored as an  <class 'float'>
+Employee 2 Slalary has been sucessfully stored as an  <class 'float'>
+Employee 3 Slalary has been sucessfully stored as an  <class 'float'>
+Employee 4 Slalary has been sucessfully stored as an  <class 'float'>
+Employee 5 Slalary has been sucessfully stored as an  <class 'float'>
+Employee 1 Slalary has been sucessfully truncated as an  <class 'int'>
+Employee 2 Slalary has been sucessfully truncated an an <class 'int'>
+Employee 3 Slalary has been sucessfully truncated as an  <class 'int'>
+Employee 4 Slalary has been sucessfully truncated as an  <class 'int'>
+Employee 5 Slalary has been sucessfully truncated as an  <class 'int'>
+The lowest salary is:  25000
+The highest salary is:  100000
+The difference between those is:  75000
+The average salary is:  59000.0
